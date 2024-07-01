@@ -43,22 +43,26 @@ Make sure you have the following installed:
    cd task-manager-ai
 Install frontend dependencies:
 
-2. ```bash
+2.
+```bash
 cd frontend
 npm install
 Install backend dependencies:
 
-3. ```bash
+3.
+```bash
 cd ../backend
 pip install -r requirements.txt
 Running the Application
-Start the Flask server:
 
-4. ```bash
+4. Start the Flask server:
+
+```bash
 cd backend
 python app.py
 Start the React app:
 
-5. ```bash
+5.
+```bash
 cd ../frontend
 npm start
