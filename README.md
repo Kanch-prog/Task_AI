@@ -2,6 +2,10 @@
 
 This project is a full-stack task management application that leverages machine learning to automatically assign tasks to users based on their skills. The frontend is built with React and Bootstrap, while the backend is implemented using Flask and a RandomForestClassifier from scikit-learn.
 
+
+https://github.com/user-attachments/assets/e90cdaa4-6042-4e00-8776-b219dbf52660
+
+
 ## Features
 
 - **Task Submission:** Users can submit tasks along with the required skill.
